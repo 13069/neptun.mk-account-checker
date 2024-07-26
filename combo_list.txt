@@ -1,0 +1,24 @@
+# napravete ja vasata combo-lista tuka so primer redosled kako:
+
+user5@example.com:password567
+user6@example.com:securepass
+test@example.com:123abc
+john.smith@example.com:password321
+jane.smith@example.com:letmein123
+admin1@example.com:adminadmin
+info1@example.com:passpass
+support1@example.com:passwordpass
+user7@example.com:abcdef
+user8@example.com:password12345
+user9@example.com:iloveyou123
+user10@example.com:qwerty123
+user11@example.com:password1
+user12@example.com:pass1234
+user13@example.com:123456789
+user14@example.com:welcome123
+user15@example.com:password!
+user16@example.com:pass@word
+user17@example.com:pass_word
+user18@example.com:password?
+user19@example.com:123password
+user20@example.com:password2022
